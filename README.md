@@ -1,4 +1,4 @@
-# rose_apothecary_store
+Rose Apothecary Store
 
 In this project I created a rose apothecary store using react
 
