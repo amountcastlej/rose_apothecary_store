@@ -6,5 +6,5 @@
 <hr>
 
 ![Rose Apothecary Store](https://github.com/amountcastlej/rose_apothecary_store/blob/main/store_inventory.png)
-
+<hr>
 
