@@ -14,5 +14,4 @@
 
 ![One Product](one-item.png)
 
-</div>
 
